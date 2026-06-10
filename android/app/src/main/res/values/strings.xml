@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Glow-Up OS</string>
+    <string name="title_activity_main">Glow-Up OS</string>
+    <string name="package_name">com.devenglow.tracker</string>
+    <string name="custom_url_scheme">com.devenglow.tracker</string>
+</resources>
