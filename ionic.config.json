@@ -1,0 +1,7 @@
+{
+  "name": "Glow-Up OS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
